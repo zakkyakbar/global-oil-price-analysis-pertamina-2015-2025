@@ -109,7 +109,7 @@ global-oil-price-analysis-pertamina-2015-2025
 You can explore the interactive dashboard here:
 
 **Tableau Public:**  
-*(Add your Tableau Public link here)*
+*(https://public.tableau.com/views/global-oil-price-analysis-pertamina-2015-2025/GlobalOilPriceAnalysis20152025MarketVolatilityEnergyInsight))*
 
 ---
 
